@@ -1,6 +1,10 @@
-## Hi there 👋
+
+[![Discord](https://img.shields.io/badge/discord-vlune-5865F2.svg?style=flat-square&logo=discord&logoColor=white&label=discord&labelColor=3C3744)](https://discord.com/users/711532767707529216)
+[![Email](https://img.shields.io/badge/email-contact.polly0%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:contact.polly0@gmail.com)
+
 
 <!--
+## Hi there 👋
 **vlune/vlune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
